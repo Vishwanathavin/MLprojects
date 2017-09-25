@@ -1,0 +1,5 @@
+We build a graph and then execute them(run)
+
+we use vairbales if their value changes mid way
+
+For values having run time input, we use feeds to assign them (we use placeholder in such case)
